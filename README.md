@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bia Lopes</h1>
+<h1 align="center">Hi 👋, I'm Bia!</h1>
 <h3 align="center">An engineer venturing into the world of frontend development and loving every second of it </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beatrizallopes&label=Profile%20views&color=0e75b6&style=flat" alt="beatrizallopes" /> </p>
