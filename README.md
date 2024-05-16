@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beatrizallopes&label=Profile%20views&color=0e75b6&style=flat" alt="beatrizallopes" /> </p>
 
-- 🌱 I’m currently learning **Typescript** and **NextJS**
+- 🌱 I’m currently learning **Typescript**, **NextJS** and **Flutter**
 
 - 📫 How to reach me **beatriz.allopes@hotmail.com**
 
